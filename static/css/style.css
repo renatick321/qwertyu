@@ -1,0 +1,71 @@
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #ffd7b8;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.top_text {
+    text-align: center;
+}
+
+.email_input {
+    margin-top: 25px;
+}
+
+.education_level_input {
+    margin-bottom: 20px;
+}
+
+.profession label {
+    margin-bottom: 5px;
+}
+
+.profession p {
+    margin-bottom: 1px;
+}
+
+.profession p input {
+    margin-right: 10px;
+}
+
+.sex_choice label {
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+.sex_choice p {
+    margin-bottom: 2px;
+}
+
+.sex_choice input {
+    margin-right: 10px;
+}
+
+.education_level_input label {
+    margin-bottom: 8px;
+}
+
+.motivation label {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.motivation textarea {
+    margin-bottom: 10px;
+}
+
+.photo label {
+    margin-bottom: 5px;
+}
+
+.photo input {
+    margin-bottom: 20px;
+}
+
+.accept {
+    margin-bottom: 20px;
+}
